@@ -17,8 +17,9 @@ I love to acquire new knowledge. In this season, I am planning to learn the foll
 2. Guitar
 3. Cooking
 
-{{< video https://www.youtube.com/watch?v=4jowDNNDId0k width="600" height="400" >}}
 
+If you want to learn guitar, follow this youtube channel:
+{{< video https://www.youtube.com/watch?v=BBz-Jyr23M4 width="600" height="400" >}}
 
 For me, learning how to cook is more of a necessity to eat healthily than a passion, more like how water *H~2~O* is a necessity for life.
 
