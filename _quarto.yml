@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "temp_website"
+  title: "Chan Min Min"
   favicon: favicon.png
   navbar:
     logo: logo.png
@@ -11,6 +11,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - hobbies.qmd
 
 format:
   html:

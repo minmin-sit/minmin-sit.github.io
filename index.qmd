@@ -1,11 +1,9 @@
 ---
-title: "temp_website"
+title: "Chan Min Min"
 ---
 
-This is a Quarto website.
+# Data Scientist. Machine Learning and AI Enthusiast.
+I am Min Min, a data scientist with a keen interest in data science and machine learning techniques. I graduated with a bachelor in Physics and masters in Statistics from the National University of Singapore. I have experience in data analysis, machine learning, and statistical modeling. I am passionate about using data to solve real-world problems and to make data-driven decisions. I am proficient in R, Python, and SQL. I am also familiar with machine learning techniques and applied machine learning algorithms for predictive analytics. I am currently working as a data scientist in a startup company.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
+My interests in data science and machine learning are broad, and I am always looking for opportunities to learn and grow. I am open to collaborations and new projects. Please feel free to contact me if you have any questions or would like to discuss potential collaborations.

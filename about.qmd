@@ -2,8 +2,12 @@
 title: "About"
 ---
 
-About this site
+I am passionate about Artificial Intelligence and loves to learn how to safely and effectively use it to help people.
 
-```{r}
-1 + 1
-```
+I am constantly learning to keep up with the rapid pace of change in the field of AI. This also helps to develop relevant skills for technical work.
+
+![National University of Singapore](./images/nus_pic.png){width=80%}
+
+![](./images/statistics_img.png){fig-align="center" height="100px"}
+
+I completed my Master of Science in Statistics at National University of Singapore. 

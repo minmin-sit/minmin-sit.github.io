@@ -1,0 +1,27 @@
+---
+title: "Random Snippets About Me"
+---
+
+### Hobbies
+My time is mostly occupied tending to my two children. However, if I have free time, I enjoy:
+
+* Playing the piano
+* Reading
+* Sleeping
+
+
+### Learning Plans
+I love to acquire new knowledge. In this season, I am planning to learn the following skills, in order of priority.
+
+1. Deep Learning
+2. Guitar
+3. Cooking
+
+{{< video https://www.youtube.com/watch?v=4jowDNNDId0k width="600" height="400" >}}
+
+
+For me, learning how to cook is more of a necessity to eat healthily than a passion, more like how water *H~2~O* is a necessity for life.
+
+**Albert Einstein** is best known for his equation *E = mc^2^* which states that energy and mass are the same thing. He is also an avid learner and has a quote that resonates with me:
+
+> Wisdom is not a product of schooling but of the lifelong attempt to acquire it.
