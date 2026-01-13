@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "reflections.html",
+    "href": "reflections.html",
+    "title": "Reflections",
     "section": "",
-    "text": "I am passionate about Artificial Intelligence and loves to learn how to safely and effectively use it to help people.\nI am constantly learning to keep up with the rapid pace of change in the field of AI. This also helps to develop relevant skills for technical work.\n\n\n\nNational University of Singapore\n\n\n\n\n\n\n\nI completed my Master of Science in Statistics at National University of Singapore."
+    "text": "Reflection on the use of GenAI"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Chan Min Min",
+    "section": "",
+    "text": "Data Scientist. Machine Learning and AI Enthusiast.\nI am Min Min, a data scientist with a keen interest in data science and machine learning techniques. I graduated with a bachelor in Physics and masters in Statistics from the National University of Singapore. I have experience in data analysis, machine learning, and statistical modeling. I am passionate about using data to solve real-world problems and to make data-driven decisions. I am proficient in R, Python, and SQL. I am also familiar with machine learning techniques and applied machine learning algorithms for predictive analytics. I am currently working as a data scientist in a startup company.\nMy interests in data science and machine learning are broad, and I am always looking for opportunities to learn and grow. I am open to collaborations and new projects. Please feel free to contact me if you have any questions or would like to discuss potential collaborations."
   },
   {
     "objectID": "hobbies.html",
@@ -14,10 +21,10 @@
     "text": "Hobbies\nMy time is mostly occupied tending to my two children. However, if I have free time, I enjoy:\n\nPlaying the piano\nReading\nSleeping\n\n\n\nLearning Plans\nI love to acquire new knowledge. In this season, I am planning to learn the following skills, in order of priority.\n\nDeep Learning\nGuitar\nCooking\n\nIf you want to learn guitar, follow this youtube channel:\n\nFor me, learning how to cook is more of a necessity to eat healthily than a passion, more like how water H2O is a necessity for life.\nAlbert Einstein is best known for his equation E = mc2 which states that energy and mass are the same thing. He is also an avid learner and has a quote that resonates with me:\n\nWisdom is not a product of schooling but of the lifelong attempt to acquire it."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Chan Min Min",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "Data Scientist. Machine Learning and AI Enthusiast.\nI am Min Min, a data scientist with a keen interest in data science and machine learning techniques. I graduated with a bachelor in Physics and masters in Statistics from the National University of Singapore. I have experience in data analysis, machine learning, and statistical modeling. I am passionate about using data to solve real-world problems and to make data-driven decisions. I am proficient in R, Python, and SQL. I am also familiar with machine learning techniques and applied machine learning algorithms for predictive analytics. I am currently working as a data scientist in a startup company.\nMy interests in data science and machine learning are broad, and I am always looking for opportunities to learn and grow. I am open to collaborations and new projects. Please feel free to contact me if you have any questions or would like to discuss potential collaborations."
+    "text": "I am passionate about Artificial Intelligence and loves to learn how to safely and effectively use it to help people.\nI am constantly learning to keep up with the rapid pace of change in the field of AI. This also helps to develop relevant skills for technical work.\n\n\n\nNational University of Singapore\n\n\n\n\n\n\n\nI completed my Master of Science in Statistics at National University of Singapore."
   }
 ]

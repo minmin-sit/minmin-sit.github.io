@@ -12,6 +12,7 @@ website:
         text: Home
       - about.qmd
       - hobbies.qmd
+      - reflections.qmd
 
 format:
   html:
