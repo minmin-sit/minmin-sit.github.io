@@ -1,10 +1,10 @@
 ---
-title: "Reflections"
+title: "Reflections on the use of GenAI"
 ---
 
-# Reflection on the use of GenAI
 
-Refer to the lab document
+Refer to the lab document!
+
 1. 
 2.
 3.
